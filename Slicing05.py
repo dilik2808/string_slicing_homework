@@ -9,4 +9,4 @@ def main(s,n):
     """
     return s[n:]
 
-print (main("salom", -3))
+print (main("salom", 2))
